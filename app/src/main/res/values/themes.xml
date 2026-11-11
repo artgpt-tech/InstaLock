@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.InstaLock" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">#0A0E17</item>
+        <item name="android:statusBarColor">#0A0E17</item>
+        <item name="android:navigationBarColor">#0A0E17</item>
+        <item name="colorAccent">#2979FF</item>
+    </style>
+</resources>
